@@ -8,11 +8,13 @@ Analyzed key attributes such as:
 Product Categories: Top and bottom categories of products.
 Color Attributes: Primary and secondary color distributions.
 Created visualizations to study the product distribution across categories and colors, providing insights into dataset composition.
-2. Data Preprocessing
+
+3. Data Preprocessing
 Text Cleaning:
 
 Removed numbers and special characters from product titles, descriptions, and tags using a custom cleaning function.
 Consolidated cleaned text into a single column for further analysis and model input.
+
 3. Image Preprocessing:
 
 Resized product images to 224x224 pixels for image classification tasks.
