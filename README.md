@@ -52,3 +52,8 @@ C. Multi-output Prediction
 Random Forest Classifier:
 Used for simultaneous prediction of multiple attributes (top category, bottom category, primary color, and secondary color).
 Achieved an average F1-score of 68.75%, demonstrating potential for multi-attribute classification in e-commerce.
+
+# 4. Evaluation Metrics
+Accuracy: Measures the proportion of correct predictions made by each model.
+
+F1 Score: Provides a balance between precision and recall, especially useful for imbalanced datasets.
