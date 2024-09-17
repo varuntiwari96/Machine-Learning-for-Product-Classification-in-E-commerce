@@ -13,7 +13,7 @@ Text Cleaning:
 
 Removed numbers and special characters from product titles, descriptions, and tags using a custom cleaning function.
 Consolidated cleaned text into a single column for further analysis and model input.
-Image Preprocessing:
+3. Image Preprocessing:
 
 Resized product images to 224x224 pixels for image classification tasks.
 Flattened image arrays for compatibility with machine learning models.
