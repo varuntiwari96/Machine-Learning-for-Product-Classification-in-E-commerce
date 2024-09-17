@@ -20,7 +20,7 @@ Consolidated cleaned text into a single column for further analysis and model in
 Resized product images to 224x224 pixels for image classification tasks.
 Flattened image arrays for compatibility with machine learning models.
 
-# 3. Machine Learning Models
+# Machine Learning Models
 A. Text Classification Models
 Multinomial Naive Bayes (Baseline Model):
 
@@ -53,7 +53,7 @@ Random Forest Classifier:
 Used for simultaneous prediction of multiple attributes (top category, bottom category, primary color, and secondary color).
 Achieved an average F1-score of 68.75%, demonstrating potential for multi-attribute classification in e-commerce.
 
-# 4. Evaluation Metrics
+# Evaluation Metrics
 Accuracy: Measures the proportion of correct predictions made by each model.
 
 F1 Score: Provides a balance between precision and recall, especially useful for imbalanced datasets.
